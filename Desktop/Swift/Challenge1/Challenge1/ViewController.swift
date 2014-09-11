@@ -25,7 +25,8 @@ class ViewController: UIViewController {
 
     @IBAction func labelButtonPressed(sender: UIButton) {
         
-        // commit to github
+        // test commit to github
+        
         nameLabel.hidden = false
         nameLabel.text = nameTextField.text
         nameLabel.text = ""
